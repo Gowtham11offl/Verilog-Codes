@@ -1,3 +1,5 @@
+`timescale 1ps/1ps
+
 module gate_nand_tb ();
     
     reg a,b,c;
