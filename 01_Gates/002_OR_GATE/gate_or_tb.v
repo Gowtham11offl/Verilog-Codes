@@ -1,3 +1,5 @@
+`timescale 1ps/1ps
+
 module gate_or_tb ();
 
 reg a,b;
