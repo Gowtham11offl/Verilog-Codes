@@ -1,3 +1,5 @@
+`timescale 1ps/1ps
+
 module gate_and_tb;
 
 reg a, b; // reg for a,b because inputs will be given in testbench
