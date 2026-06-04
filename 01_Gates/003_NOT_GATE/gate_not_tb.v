@@ -1,3 +1,5 @@
+`timescale 1ps/1ps
+
 module gate_not_tb;
 
 reg in1;
