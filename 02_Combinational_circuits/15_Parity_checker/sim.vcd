@@ -1,0 +1,41 @@
+$date
+	Mon Jul  6 12:58:40 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_parity_checker $end
+$scope module uut $end
+$var wire 1 ! error $end
+$var wire 4 " in1 [3:0] $end
+$var wire 1 # parity_bit $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+1#
+b100 "
+0!
+$end
+#10
+1!
+b1001 "
+#20
+0!
+b1101 "
+#30
+0!
+0#
+b101 "
+#40
+0!
+1#
+b1 "
+#50
